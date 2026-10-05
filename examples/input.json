@@ -1,0 +1,10 @@
+{
+  "queries": [
+    "logiciel"
+  ],
+  "departments": [
+    "69"
+  ],
+  "minRevenue": 1000000,
+  "maxItems": 25
+}
